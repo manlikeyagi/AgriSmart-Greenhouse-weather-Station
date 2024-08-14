@@ -2,6 +2,7 @@
 # weather station project using NodeMCU
 Prototype & Development of Weather Station 
 The weather station for the greenhouse integrates several sensors with a NodeMCU microcontroller and the Blynk app for remote monitoring and control. The primary components include a light sensor, rain sensor, and DHT11 temperature and humidity sensor. IoT system must monitor such weather parameters as temperature, relative humidity, atmospheric pressure, light intensity, rainfall
+
 Function:
 Collects and displays weather data to provide insights into external conditions affecting the greenhouse.
 
