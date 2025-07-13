@@ -32,7 +32,7 @@ The system tracks the following weather variables:
 
  <h4 align="center">🔧 Weather Station Mobile Application</h4>
 <p align="center">
-  <img src="images/AGRISMART  weather station mobile application Image 2025-07-13 at 08.58.46_154c832e.jpg" width="600"/>
+  <img src="images/AGRISMART  weather station mobile application Image 2025-07-13 at 08.58.46_154c832e.jpg" width="400"/>
 </p>
 ---
 
