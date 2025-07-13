@@ -41,15 +41,16 @@ The system tracks the following weather variables:
 
 ## 📷 System Preview
 
-You can include images like:
-markdown
-![Weather Station Setup] <h4 align="center">🔧 Weather Station Circuit Diagram</h4>
+ <h4 align="center">🔧 Weather Station setup</h4>
+<p align="center">
+  <img src="images/Agrismart weather station .jpg" width="600"/>
+</p>
+
+ <h4 align="center">🔧 Weather Station setup</h4>
 <p align="center">
   <img src="images/Agrismart weather station .jpg" width="600"/>
 </p>
 
 
 
-
- images/Agrismart weather station .jpg
-![Circuit Diagram](schematics/weather_station_circuit.png)
+ 
