@@ -6,6 +6,11 @@
 The **AgriSmart Weather Station** is a prototype system designed to monitor key environmental parameters in and around a greenhouse. It integrates multiple sensors with a **NodeMCU microcontroller** and the **Blynk IoT platform** to enable **real-time remote monitoring** of weather conditions.
 
 This IoT-based solution plays a critical role in optimizing greenhouse operations by providing insights into external environmental conditions that can affect crop health and productivity.
+ <h4 align="center">🔧 Weather Station setup</h4>
+<p align="center">
+  <img src="images/Agrismart weather station .jpg" width="600"/>
+</p>
+
 
 ---
 
@@ -41,10 +46,6 @@ The system tracks the following weather variables:
 
 ## 📷 System Preview
 
- <h4 align="center">🔧 Weather Station setup</h4>
-<p align="center">
-  <img src="images/Agrismart weather station .jpg" width="600"/>
-</p>
 
  <h4 align="center">🔧 Weather Station circuit diagram </h4>
 <p align="center">
