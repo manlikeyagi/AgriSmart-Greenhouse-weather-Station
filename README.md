@@ -46,9 +46,9 @@ The system tracks the following weather variables:
   <img src="images/Agrismart weather station .jpg" width="600"/>
 </p>
 
- <h4 align="center">🔧 Weather Station setup</h4>
+ <h4 align="center">🔧 Weather Station circuit diagram </h4>
 <p align="center">
-  <img src="images/Agrismart weather station .jpg" width="600"/>
+  <img src="schematic/Agrismart weather station_bb.png" width="600"/>
 </p>
 
 
